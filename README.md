@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0xHyroglyph. Find me on Twitter!
+- 👋 Hi, I’m @Hyroglyph. Find me on Twitter!
 - 👀 I’m interested in converging incentives, passion, and communities in great product experiences.
-- 🌱 I’m currently learning Lens Protocol, GraphQL, Solidity, NextJS.
-- 💞️ I’m looking to collaborate on Crypto Social!
-- 📫 Reach me at twitter.com/0xHyroglyph
+- 🌱 I’m currently focused on market making strategies across crypto CEXs and DEXs.
+- 💞️ I’m happy to collaborate on liquidity provisioning with projects.
+- 📫 Reach me at twitter.com/Hyroglyph
 
 <!---
 0xhyroglyph/0xhyroglyph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
